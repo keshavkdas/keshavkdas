@@ -1,36 +1,65 @@
-Keshav K. Das
-Software Engineer | Full Stack & Backend Specialist
-Welcome to my GitHub profile! I'm a passionate and innovative Software Engineer with a focus on building robust, scalable, and secure applications. My expertise lies in backend development with Java and Spring Boot, and I have a solid understanding of cloud-native architecture using AWS. I believe in combining strong technical skills with an artistic eye to create solutions that are both highly functional and elegantly designed.
+# 👋 Hi, I'm Keshav K Das  
 
-My Expertise
-Backend Development: Java, Spring Boot, Microservices, RESTful APIs, Python.
+🚀 **Backend-focused Software Engineer** | 💡 Passionate about **Java, Spring Boot, AWS & Cloud Systems** | ⚡ Aspiring to build **scalable, secure & innovative solutions**
 
-DevOps & Cloud: AWS (EC2, RDS, EKS), Docker, Kubernetes, Jenkins, Terraform, CI/CD Automation.
+---
 
-Databases: MySQL (RDS).
+## 🧑‍💻 About Me  
+- 🎓 B.Tech in **Electronics & Computer Engineering** @ VIT Chennai (2021–2025)  
+- 🌐 Building scalable APIs, payment systems & cloud-native apps  
+- 🔒 Passionate about **Security Automation & CI/CD**  
+- 🏆 Recognized as **STAR Performer** for delivering a secure Stripe Payment System  
+- 📍 Based in **India** | Open to **Global Opportunities**  
 
-Creative & Innovative: AI/ML Integration (Spring AI, Open AI LLM), UI/UX concepts, Performance Tuning, Secure Coding.
+---
 
-Featured Projects
-Stripe Payment Integration
-Built a secure and highly available payment system using Spring Boot microservices on AWS.
+## 🔧 Tech Stack  
 
-Ensured 100% transaction reliability by integrating with the Stripe REST API.
+**Languages & Frameworks**  
+`Java` • `Python` • `Spring Boot` • `Spring AI` • `Spring JDBC`  
 
-Implemented robust security and error handling mechanisms, including Basic Auth and HmacSHA256.
+**APIs & Architecture**  
+`RESTful APIs` • `Microservices` • `Stripe API` • `Swagger` • `OpenAI / LLaMA LLM`  
 
-Achieved STAR Performer of the Month for delivering a high-quality, timely solution.
+**Databases & Cloud**  
+`MySQL (RDS)` • `AWS (EC2, RDS, EKS, Secrets Manager)` • `Terraform`  
 
-CI/CD Pipeline Automation
-Designed and automated build and deployment pipelines using Jenkins and Docker.
+**DevOps & CI/CD**  
+`Docker` • `Kubernetes` • `Jenkins` • `Bitbucket` • `GitHub` • `SourceTree`  
 
-Reduced deployment time by 40% and enabled seamless, continuous delivery.
+**Testing & Tools**  
+`JUnit` • `Mockito` • `SonarLint` • `Logback` • `ActiveMQ` • `Agile/Scrum`  
 
-Deployed containerized microservices on AWS EKS, demonstrating expertise in modern cloud-native practices.
+---
 
-Let's Connect!
-I'm always open to discussing new opportunities, collaborating on projects, or sharing insights on software development and architecture.
+## 📌 Featured Projects  
 
-LinkedIn: www.linkedin.com/in/keshav-k-das-63587921b
+### 🔹 Stripe Payment Integration  
+- 💳 Built a **secure payment system** using **Spring Boot microservices** on **AWS**  
+- 🔐 Integrated **Basic Auth, HmacSHA256, ActiveMQ** for **100% transaction reliability**  
+- 🏆 Awarded **STAR Performer of the Month**  
 
-Resume: Feel free to reach out to me for a copy of my full resume.
+### 🔹 Android App Development (Java, Android Studio)  
+- 📱 Optimized app performance by **25%**  
+- 🎨 Enhanced **UI/UX** with scalable & maintainable code  
+
+### 🔹 CI/CD Pipeline Automation  
+- ⚙️ Automated builds & deployments with **Jenkins & Docker**  
+- ☁️ Deployed containerized microservices on **Kubernetes (AWS EKS)**  
+- ⏱️ Reduced deployment time by **40%**  
+
+---
+
+## 🌍 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-k-das-63587921b)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/keshavkdas)  
+📧 **keshavkdas23@gmail.com**  
+
+---
+
+## ⚡ Fun Fact  
+I love exploring how **AI + Secure Systems** can be merged to build the next generation of cloud applications 🚀  
+
+---
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
