@@ -1,5 +1,4 @@
 <div align="left">
-  <img src="https://media.giphy.com/media/QvvsLwGj0S72hHjYtT/giphy.gif" width="200" alt="Hello Giphy Banner"/>
   <h1>Keshav K Das | Backend Software Engineer 🚀</h1>
   <p>Building scalable and secure cloud applications with Java, Spring Boot, and AWS.</p>
 </div>
