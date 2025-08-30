@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&lines=Hacking+the+Code+Matrix...;Backend+Engineer;Spring+Boot+%7C+AWS+%7C+Microservices;CI%2FCD+%7C+Cloud+Security;Always+Building+%26+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&lines=Backend+Engineer;Spring+Boot+%7C+AWS+%7C+Microservices;CI%2FCD+%7C+Cloud+Security;Always+Building+%26+Learning!" alt="Typing SVG" />
 </p>
 
 ---
@@ -82,15 +82,17 @@
 
 ---
 
-## 🎧  Now playing on spotify  
+## 🎧 Top Streaming Songs (India 🇮🇳)  
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31z6j5v2qz7x6sy8b5lqfsb4zqv4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=00FF41&bar_color_cover=false)
+🔥 English + Hindi Mix — Trending Now  
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31z6j5v2qz7x6sy8b5lqfsb4zqv4&cover_image=true&theme=novatorem&show_offline=false&background_color=0A192F&bar_color=00FF41&bar_color_cover=false)
 
 ---
 
 ## 💡 Quote of the Day  
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0A192F&border_color=00FF41&quote_color=00FF41&author_color=00FF41)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0A192F&border_color=00FF41&quote_color=00FF41&author_color=00FF41)
 
 ---
 
