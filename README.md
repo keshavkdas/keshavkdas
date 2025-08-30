@@ -53,17 +53,15 @@ These projects showcase my hands-on experience and a strong grasp of modern soft
 
 ---
 
-### 📈 My GitHub Activity
-
+📈 My GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshavkdas&show_icons=true&theme=vue-dark&hide_title=true&hide_rank=true" alt="Keshav's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavkdas&theme=vue-dark" alt="GitHub Streak" />
+<a href="https://github.com/keshavkdas">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavkdas&theme=vue-dark" alt="GitHub Streak" />
+</a>
+<a href="https://github.com/keshavkdas">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkdas&layout=compact&theme=vue-dark" alt="Top Languages" />
+</a>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkdas&layout=compact&theme=vue-dark" alt="Top Languages" />
-</div>
-
 ---
 
 ### 📫 Let's Connect
