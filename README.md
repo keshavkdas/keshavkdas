@@ -58,10 +58,14 @@ These projects showcase my hands-on experience and a strong grasp of modern soft
 <a href="https://github.com/keshavkdas">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavkdas&theme=vue-dark" alt="GitHub Streak" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/keshavkdas">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkdas&layout=compact&theme=vue-dark" alt="Top Languages" />
 </a>
 </div>
+
 ---
 
 ### 📫 Let's Connect
