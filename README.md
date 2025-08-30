@@ -1,50 +1,75 @@
 <div align="left">
-  <h1>Hey there, I'm Keshav K Das! 🚀</h1>
-  <p>A Backend-focused Software Engineer with expertise in Java, Spring Boot, and AWS, passionate about building secure and scalable cloud applications.</p>
+  <img src="https://media.giphy.com/media/QvvsLwGj0S72hHjYtT/giphy.gif" width="200" alt="Hello Giphy Banner"/>
+  <h1>Keshav K Das | Backend Software Engineer 🚀</h1>
+  <p>Building scalable and secure cloud applications with Java, Spring Boot, and AWS.</p>
 </div>
 
 ---
 
-### 🔥 A Little About Me
+### 🔥 About Me
 
-I'm a driven professional with a proven track record in software engineering. I specialize in backend development, microservices, and CI/CD automation. My key strength lies in building robust and scalable systems, as demonstrated by my work on secure payment integrations. [cite_start]My contributions were recognized with a **STAR Performer Award** for delivering a high-quality solution[cite: 7, 19].
+I'm a dedicated backend-focused Software Engineer with a passion for designing and building robust, high-performance systems. My expertise lies in backend development, microservices architecture, and automating CI/CD pipelines. My work on a secure payment integration system earned me a **STAR Performer Award**, a testament to my commitment to delivering high-quality, impactful solutions.
 
-### 🛠️ Key Skills & Expertise
+I believe in continuous learning and collaboration. I'm always looking to tackle complex challenges and contribute to projects that make a real-world difference.
 
-| Area | Skills & Tools |
+### 💼 Technical Toolkit
+
+My skills and tools are categorized to provide a clear overview of my technical abilities.
+
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Frameworks** | [cite_start]Java, Python, Spring Boot, Spring Al, Spring Boot JDBC [cite: 9] |
-| **Cloud & DevOps** | [cite_start]AWS (EC2, RDS, Secrets Manager, EKS), Docker, Kubernetes, Jenkins, Terraform [cite: 11, 22] |
-| **APIs & Architecture** | [cite_start]RESTful APIs (JSON, CURL, Postman, Swagger), Microservices, Llama LLM, Open Al LLM [cite: 10] |
-| **Databases** | [cite_start]MySQL (RDS) [cite: 11] |
-| **Collaboration & Tools** | [cite_start]Git, Bitbucket, Jira, Scrum/Agile, JUnit, Mockito [cite: 12] |
+| **Programming & Frameworks** | **Java**, **Python**, **Spring Boot**, **Spring AI** |
+| **APIs & Architecture** | RESTful APIs (JSON, CURL, Postman, Swagger), **Microservices**, Open AI LLM, Llama LLM |
+| **Cloud & DevOps** | **AWS** (EC2, RDS, EKS, Secrets Manager), **Docker**, **Kubernetes**, Jenkins, Terraform |
+| **Databases** | **MySQL** (RDS) |
+| **Collaboration & Testing** | Git, Jira, Scrum/Agile, **JUnit**, **Mockito**, ActiveMQ |
+| **Developer Practices** | Secure Coding, Performance Tuning, Design Patterns, Vibe Coding (GitHub Copilot) |
 
 ---
 
-### 📌 Project Highlights
+### 🌟 Featured Projects
 
-#### **Stripe Payment Integration**
-* **Project Role:** Backend Developer
-* [cite_start]**Impact:** Built a secure, scalable payment system using **Spring Boot** and **AWS** that achieved 100% transaction reliability[cite: 16].
-* [cite_start]**Achievements:** Implemented security measures (**HmacSHA256**), integrated **ActiveMQ** for asynchronous messaging, and containerized services with **Docker**[cite: 17, 18].
-* [cite_start]**Recognition:** Received a **STAR Performer Award** for delivering the project on time with high-quality results[cite: 7, 19].
+These projects showcase my hands-on experience and a strong grasp of modern software development principles.
+
+#### **Project - Stripe Payment Integration**
+* **Summary:** Developed a secure and scalable payment system using **Spring Boot microservices** on **AWS**.
+* **Key Contributions:**
+    * Implemented the Stripe REST API to handle payment sessions with 100% transaction reliability.
+    * Integrated advanced security mechanisms, including Basic Auth and **HmacSHA256**.
+    * Used **ActiveMQ** for asynchronous messaging and explored **Spring AI** for enhanced error handling.
+* **Recognition:** Awarded **STAR Performer of the Month** for delivering a timely, high-quality solution.
 
 #### **CI/CD Pipeline Automation**
-* [cite_start]**Impact:** Automated build and deployment pipelines using **Jenkins** and **Docker**, which reduced deployment time by **40%**[cite: 22].
-* [cite_start]**Achievements:** Deployed containerized microservices on **Kubernetes (AWS EKS)** and enhanced security, reducing deployment risk by **30%**[cite: 22, 28].
+* **Summary:** Automated the entire build and deployment pipeline for microservices.
+* **Key Contributions:**
+    * Used **Jenkins** and **Docker** to cut deployment time by **40%**.
+    * Deployed containerized services on **Kubernetes (AWS EKS)**.
+    * Optimized and secured pipelines, leading to a **30% reduction in deployment risk**.
+
+#### **Android Application Development**
+* **Summary:** Enhanced an existing Android application by improving performance and user experience.
+* **Key Contributions:**
+    * Wrote clean, scalable **Java code** that improved app performance by **25%**.
+    * Optimized UI features and resolved critical bugs, improving overall user satisfaction.
 
 ---
 
-### 📈 My GitHub Stats
+### 📈 My GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keshavkdas&show_icons=true&theme=vue-dark&hide_title=true&hide_rank=true" alt="Keshav's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavkdas&theme=vue-dark" alt="GitHub Streak" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkdas&layout=compact&theme=vue-dark" alt="Top Languages" />
 </div>
 
 ---
 
 ### 📫 Let's Connect
+
+I'm always open to discussing new opportunities, projects, or just chatting about technology. Feel free to reach out!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keshav-k-das-63587921b" target="_blank">
