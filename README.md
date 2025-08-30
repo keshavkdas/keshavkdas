@@ -1,69 +1,56 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgM4yA6B69gBq/giphy.gif" width="100"/>
-  <h1>Hi, I'm Keshav K Das! 👋</h1>
-  <p>A backend-focused Software Engineer specializing in Java, Spring Boot, and AWS, with a passion for building scalable and secure microservices.</p>
+<div align="left">
+  <h1>Hey there, I'm Keshav K Das! 🚀</h1>
+  <p>A Backend-focused Software Engineer with expertise in Java, Spring Boot, and AWS, passionate about building secure and scalable cloud applications.</p>
 </div>
 
 ---
 
-### 🔥 Summary
+### 🔥 A Little About Me
 
-[cite_start]I am a highly motivated Software Engineer with proven expertise in developing robust and scalable APIs and payment systems using **Java**, **Spring Boot**, and **AWS**[cite: 5]. [cite_start]My experience includes building secure cloud applications, automating CI/CD pipelines with **Docker** and **Kubernetes**, and collaborating in agile teams[cite: 6]. [cite_start]I was recognized with a **STAR Performer Award** for delivering a secure Stripe Payment Integration system[cite: 7].
+I'm a driven professional with a proven track record in software engineering. I specialize in backend development, microservices, and CI/CD automation. My key strength lies in building robust and scalable systems, as demonstrated by my work on secure payment integrations. [cite_start]My contributions were recognized with a **STAR Performer Award** for delivering a high-quality solution[cite: 7, 19].
+
+### 🛠️ Key Skills & Expertise
+
+| Area | Skills & Tools |
+| :--- | :--- |
+| **Languages & Frameworks** | [cite_start]Java, Python, Spring Boot, Spring Al, Spring Boot JDBC [cite: 9] |
+| **Cloud & DevOps** | [cite_start]AWS (EC2, RDS, Secrets Manager, EKS), Docker, Kubernetes, Jenkins, Terraform [cite: 11, 22] |
+| **APIs & Architecture** | [cite_start]RESTful APIs (JSON, CURL, Postman, Swagger), Microservices, Llama LLM, Open Al LLM [cite: 10] |
+| **Databases** | [cite_start]MySQL (RDS) [cite: 11] |
+| **Collaboration & Tools** | [cite_start]Git, Bitbucket, Jira, Scrum/Agile, JUnit, Mockito [cite: 12] |
 
 ---
 
-### 📌 Featured Projects
-
-Here are some of my key projects, demonstrating my skills in backend development and cloud architecture.
+### 📌 Project Highlights
 
 #### **Stripe Payment Integration**
-* [cite_start]Built a secure and scalable payment system using **Spring Boot microservices** on AWS[cite: 16].
-* [cite_start]Integrated Stripe REST API and implemented security mechanisms like **Basic Auth** and **HmacSHA256** to ensure 100% transaction reliability[cite: 17, 16].
-* [cite_start]Containerized services with **Docker** and deployed them on **AWS EC2**[cite: 18].
-* [cite_start]**Awarded STAR Performer of the Month** for delivering a high-quality solution[cite: 19].
+* **Project Role:** Backend Developer
+* [cite_start]**Impact:** Built a secure, scalable payment system using **Spring Boot** and **AWS** that achieved 100% transaction reliability[cite: 16].
+* [cite_start]**Achievements:** Implemented security measures (**HmacSHA256**), integrated **ActiveMQ** for asynchronous messaging, and containerized services with **Docker**[cite: 17, 18].
+* [cite_start]**Recognition:** Received a **STAR Performer Award** for delivering the project on time with high-quality results[cite: 7, 19].
 
 #### **CI/CD Pipeline Automation**
-* [cite_start]Automated build and deployment pipelines using **Jenkins** and **Docker**, which cut deployment time by 40%[cite: 22].
-* [cite_start]Deployed containerized microservices on **Kubernetes (AWS EKS)** to streamline the development workflow[cite: 22].
-* [cite_start]Secured and optimized pipelines, reducing deployment risk by 30%[cite: 28].
-
-#### **Android Application Development**
-* [cite_start]Developed a clean, scalable Java codebase that optimized Android app performance by 25%[cite: 25, 21].
-* [cite_start]Enhanced UI/UX through efficient bug fixes and feature optimizations[cite: 21].
+* [cite_start]**Impact:** Automated build and deployment pipelines using **Jenkins** and **Docker**, which reduced deployment time by **40%**[cite: 22].
+* [cite_start]**Achievements:** Deployed containerized microservices on **Kubernetes (AWS EKS)** and enhanced security, reducing deployment risk by **30%**[cite: 22, 28].
 
 ---
 
-### 🚀 Technical Skills
-
-**Programming & Frameworks:**
-* [cite_start]Java, Python, Spring Boot, Spring Al, Spring Boot JDBC [cite: 9]
-
-**APIs & Architecture:**
-* [cite_start]RESTful APIs, Microservices, Open AI LLM, Llama LLM [cite: 10]
-
-**Cloud & DevOps:**
-* [cite_start]AWS (EC2, RDS, Secrets Manager, EKS), Docker, Kubernetes, Jenkins, Terraform [cite: 11]
-
-**Databases:**
-* [cite_start]MySQL (RDS) [cite: 11]
-
-**Collaboration & Testing:**
-* [cite_start]Git, Jira, Scrum/Agile, JUnit, Mockito, ActiveMQ [cite: 12]
-
----
-
-### 📊 GitHub Stats
+### 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshavkdas&show_icons=true&theme=onedark" alt="Keshav's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkdas&layout=compact&theme=onedark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keshavkdas&show_icons=true&theme=vue-dark&hide_title=true&hide_rank=true" alt="Keshav's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkdas&layout=compact&theme=vue-dark" alt="Top Languages" />
 </div>
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 
-* [cite_start]**LinkedIn:** [linkedin.com/in/keshav-k-das-63587921b](https://www.linkedin.com/in/keshav-k-das-63587921b) [cite: 3]
-* [cite_start]**GitHub:** [github.com/keshavkdas](https://github.com/keshavkdas) [cite: 3]
-* [cite_start]**Email:** keshavkdas23@gmail.com [cite: 2]
-* [cite_start]**Phone:** +91 9460822915 [cite: 2]
+<p align="center">
+  <a href="https://www.linkedin.com/in/keshav-k-das-63587921b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:keshavkdas23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
