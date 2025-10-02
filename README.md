@@ -67,20 +67,6 @@ I am eager to make a meaningful contribution to the tech industry. Let's connect
 ## 📊 <span style="font-family:Pacifico;">GitHub Analytics</span>  
 
 <p align="center">
-  <img src="https://github.com/keshavkdas/keshavkdas/blob/main/github-metrics.svg" alt="GitHub Metrics" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/keshavkdas/keshavkdas/blob/main/github-user-details.svg" alt="User Details" width="49%" style="vertical-align:top; margin-right:1%;">
-  <img src="https://github.com/keshavkdas/keshavkdas/blob/main/github-activity-graph.svg" alt="Activity Graph" width="49%" style="vertical-align:top;">
-</p>
-
-<p align="center">
-  <img src="https://github.com/keshavkdas/keshavkdas/blob/main/github-languages-stats.svg" alt="Languages Stats" width="49%" style="vertical-align:top; margin-right:1%;">
-  <img src="https://github.com/keshavkdas/keshavkdas/blob/main/github-contributions-calendar.svg" alt="Contributions Calendar" width="49%" style="vertical-align:top;">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keshavkdas&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C3FF&text_color=00C3FF" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavkdas&theme=tokyonight&hide_border=true&ring=00C3FF&fire=00C3FF&currStreakLabel=00C3FF" height="180" />
 </p>
