@@ -67,6 +67,10 @@ I am eager to make a meaningful contribution to the tech industry. Let's connect
 ## 📊 <span style="font-family:Pacifico;">GitHub Analytics</span>  
 
 <p align="center">
+  <img src="https://github.com/keshavkdas/keshavkdas/blob/master/github-metrics.svg" alt="GitHub Metrics" width="95%"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/app/images/cards/github-user-details.svg" alt="User Details Card Placeholder" width="49%" style="vertical-align:top; margin-right:1%;">
   <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/app/images/cards/github-activity-graph.svg" alt="Activity Graph Placeholder" width="49%" style="vertical-align:top;">
 </p>
