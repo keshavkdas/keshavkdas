@@ -3,10 +3,6 @@
   <img src="https://raw.githubusercontent.com/keshavkdas/keshavkdas/main/assets/banner.png" alt="Keshav K Das Banner" />
 </p>
 
-<!-- Title -->
-<h1 align="center">👋 Hi, I'm 
-  <span style="font-family:Pacifico; color:#00C3FF; font-weight:700;">Keshav K Das</span>
-</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=00C3FF&center=true&vCenter=true&width=1000&lines=Backend+Engineer;Spring+Boot+%7C+AWS+%7C+Microservices;CI%2FCD+%7C+Cloud+Security;Always+Learning+%26+Building!" alt="Typing SVG" />
