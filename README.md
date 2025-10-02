@@ -71,13 +71,13 @@ I am eager to make a meaningful contribution to the tech industry. Let's connect
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/app/images/cards/github-user-details.svg" alt="User Details Card Placeholder" width="49%" style="vertical-align:top; margin-right:1%;">
-  <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/app/images/cards/github-activity-graph.svg" alt="Activity Graph Placeholder" width="49%" style="vertical-align:top;">
+  <img src="https://github.com/keshavkdas/keshavkdas/blob/main/github-user-details.svg" alt="User Details" width="49%" style="vertical-align:top; margin-right:1%;">
+  <img src="https://github.com/keshavkdas/keshavkdas/blob/main/github-activity-graph.svg" alt="Activity Graph" width="49%" style="vertical-align:top;">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/app/images/cards/github-languages-stats.svg" alt="Languages Stats Placeholder" width="49%" style="vertical-align:top; margin-right:1%;">
-  <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/app/images/cards/github-contributions-calendar.svg" alt="Contributions Calendar Placeholder" width="49%" style="vertical-align:top;">
+  <img src="https://github.com/keshavkdas/keshavkdas/blob/main/github-languages-stats.svg" alt="Languages Stats" width="49%" style="vertical-align:top; margin-right:1%;">
+  <img src="https://github.com/keshavkdas/keshavkdas/blob/main/github-contributions-calendar.svg" alt="Contributions Calendar" width="49%" style="vertical-align:top;">
 </p>
 
 <p align="center">
