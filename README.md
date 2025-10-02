@@ -1,7 +1,7 @@
 # 👋 Hi, I'm <span style="font-family:Pacifico; color:#00C3FF; font-weight:700;">Keshav K Das</span>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=00C3FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Spring+Boot+%7C+AWS+%7C+Microservices;CI%2FCD+%7C+Cloud+Security;Always+Learning+%26+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=00C3FF&center=true&vCenter=true&width=800&lines=Backend+Engineer;Spring+Boot+%7C+AWS+%7C+Microservices;CI%2FCD+%7C+Cloud+Security;Always+Learning+%26+Building!" alt="Typing SVG" />
 </p>
 
 ---
@@ -54,11 +54,19 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keshavkdas&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C3FF&text_color=00C3FF" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkdas&layout=compact&theme=tokyonight&hide_border=true&title_color=00C3FF&text_color=00C3FF" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavkdas&theme=tokyonight&hide_border=true&ring=00C3FF&fire=00C3FF&currStreakLabel=00C3FF" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkdas&layout=compact&theme=tokyonight&hide_border=true&title_color=00C3FF&text_color=00C3FF" height="180" />
+</p>
+
+---
+
+## 🏆 <span style="font-family:Pacifico;">GitHub Trophies</span>  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keshavkdas&theme=tokyonight&no-frame=true&row=1&column=6&title=Commit,Stars,Followers,PullRequest,Repositories,Issues" />
 </p>
 
 ---
@@ -89,4 +97,6 @@
 
 ---
 
-✨ <span style="font-family:Pacifico;">“Code is like humor. When you have to explain it, it’s bad.”</span>  
+<p align="center">
+  ✨ <span style="font-family:Pacifico;">“Code is like humor. When you have to explain it, it’s bad.”</span>  
+</p>
