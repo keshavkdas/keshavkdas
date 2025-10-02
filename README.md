@@ -10,18 +10,17 @@
 
 ---
 
-## 🧑‍💻 <span style="font-family:Pacifico;">About Me</span>  
-<p align="left">
-[cite_start]I am a passionate **Spring & Java Developer** and **Cyber Security Solutions** enthusiast, currently pursuing my B.Tech in Electronics and Computer Engineering at VIT University, Chennai. [cite_start]My academic journey has equipped me with a unique, multidisciplinary perspective, blending the principles of electronics with the latest innovations in computing[cite: 19, 20].
+## 🧑‍💻 About Me
+I am a passionate **Spring & Java Developer** and **Cyber Security Solutions** enthusiast, currently pursuing my B.Tech in Electronics and Computer Engineering at VIT University, Chennai. My academic journey has equipped me with a unique, multidisciplinary perspective, blending the principles of electronics with the latest innovations in computing. I thrive in collaborative environments and am driven to solve real-world problems with technology.
 
 **My Focus Areas:**
-* [cite_start]**Backend Development:** Building scalable **APIs & Microservices** [cite: 15, 16] [cite_start]using Java and the Spring framework[cite: 27]. [cite_start]I have experience with core skills like **MySQL**, **DSA**, and **Operating Systems**[cite: 9, 10, 11].
-* [cite_start]**Cloud & Deployment:** Experienced in **AWS Cloud** deployments[cite: 15]. [cite_start]As a Java Development Trainee at Hulk Hire, I designed and successfully deployed a fully working, real-time **Stripe payment integration system** on AWS[cite: 26, 27].
-* [cite_start]**Cyber Security & Automation:** I specialize in applying cybersecurity principles to development environments[cite: 38]. [cite_start]During my 7-month internship at digiALERT, I gained hands-on experience in designing, implementing, and **securing CI/CD pipelines**, focusing on mitigating vulnerabilities for secure and compliant integration practices[cite: 29, 32, 33, 34, 35, 36].
-* [cite_start]**Mobile Development:** Previously worked with Java and Android Studio to write clean, efficient code, enhancing user experience and functionality in Android applications[cite: 42, 43].
 
-[cite_start]I thrive in collaborative environments and am driven to solve real-world problems with technology, whether it's diving into AI-driven solutions or exploring the intersection of hardware and software[cite: 21, 22]. [cite_start]Let's connect and create solutions that shape the future! [cite: 23]
-</p>
+* **Backend Development:** Building scalable **APIs & Microservices** using Java and the Spring framework. I am proficient in core skills like **MySQL**, **DSA**, and **Operating Systems**.
+* **Cloud & Deployment:** Experienced in **AWS Cloud** solutions. As a Java Development Trainee at Hulk Hire, I successfully designed and deployed a fully working, real-time **Stripe payment integration system** on AWS using Spring frameworks.
+* **Cyber Security & Automation:** I specialize in applying cybersecurity principles to development environments. During my 7-month internship at digiALERT, I gained hands-on experience in designing, implementing, and **securing CI/CD pipelines**, focusing on mitigating vulnerabilities and ensuring compliant integration practices.
+* **Mobile Development:** Collaborated on projects within the Android application, utilizing Java and Android Studio to write clean, efficient code focused on maintainability and scalability.
+
+I am eager to make a meaningful contribution to the tech industry. Let's connect and create solutions that shape the future!
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=keshavkdas&color=00C3FF&style=flat-square&label=Profile+Visits" />
