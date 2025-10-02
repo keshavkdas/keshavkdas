@@ -6,14 +6,18 @@ on:
   # Allow manual workflow run
   workflow_dispatch:
 
+# ➡️ ADD THIS BLOCK ⬅️
+permissions:
+  contents: write 
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token is required for the action to fetch your data
-          token: ${{ secrets.METRICS_TOKEN }}
+          # ➡️ USE THE DEFAULT TOKEN HERE ⬅️
+          token: ${{ secrets.GITHUB_TOKEN }}
 
           # The base metrics you want (e.g., stats, activity)
           base: activity, community, repositories, metadata
@@ -25,4 +29,4 @@ jobs:
           
           # Use the Tokyo Night theme for a matching aesthetic
           config_output: svg
-          config_timezone: Asia/Kolkata # Set this to your timezone
+          config_timezone: Asia/Kolkata
