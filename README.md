@@ -67,7 +67,7 @@ I am eager to make a meaningful contribution to the tech industry. Let's connect
 ## 📊 <span style="font-family:Pacifico;">GitHub Analytics</span>  
 
 <p align="center">
-  <img src="https://github.com/keshavkdas/keshavkdas/blob/master/github-metrics.svg" alt="GitHub Metrics" width="95%"/>
+  <img src="https://github.com/keshavkdas/keshavkdas/github-metrics.svg" alt="GitHub Metrics" width="95%"/>
 </p>
 
 <p align="center">
