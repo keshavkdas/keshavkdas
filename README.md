@@ -82,10 +82,6 @@ I am eager to make a meaningful contribution to the tech industry. Let's connect
 
 ## ⚡ <span style="font-family:Pacifico;">Fun Zone</span>  
 
-<p align="center">
-🎧 <b>Now Playing on Spotify</b><br>
-<img src="https://novatorem.vercel.app/api/spotify" /><br><br>
-
 💡 <b>Quote of the Day</b><br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&title_color=00C3FF&quote_color=00C3FF" />
 </p>
